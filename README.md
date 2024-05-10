@@ -7,7 +7,7 @@ The dashboard provides a visual analysis of motor vehicle collisions in New York
 
 ## Data
 
-The data used in this project is the Motor Vehicle Collisions - Crashes dataset from the city of New York. The dataset includes details about the date, time, location, and contributing factors of the collisions.
+The data used in this project is the Motor Vehicle Collisions - Crashes dataset from the city of New York. The dataset includes details about the date, time, location, and contributing factors of the collisions. [Click here](https://data.cityofnewyork.us/Public-Safety/Motor-Vehicle-Collisions-Crashes/h9gi-nx95/about_data) to download the dataset.
 
 ## Installation
 
